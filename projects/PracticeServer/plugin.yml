@@ -1,0 +1,48 @@
+name: PracticeServer
+main: me.bpweber.practiceserver.Main
+version: 1.5.2 Open Beta
+author: bpweber
+depend: 
+  [Vault]
+loadbefore:
+  [Essentials, VoxelSniper]
+commands:
+  roll: 
+  setrank:
+  gl:
+  psban:
+  psunban:
+  psmute:
+  psunmute:
+  toggle:
+    aliases: [toggles]
+  togglepvp:
+  togglechaos:
+  toggledebug:
+    aliases: [debug]
+  toggleff:
+  add:
+  del:
+  delete:
+  message:
+    aliases: [msg, m, whisper, w, tell, t]
+  reply:
+    aliases: [r]
+  banksee:
+  logout:
+  sync:
+  showms:
+  hidems:
+  monspawn:
+  killall:
+  showloot:
+  hideloot:
+  psvanish:
+  pinvite:
+  paccept:
+  pquit:
+  pkick:
+  pdecline:
+  p:
+  toggletrail:
+  br:
